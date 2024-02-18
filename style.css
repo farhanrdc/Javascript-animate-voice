@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    overflow:hidden;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+canvas , h1{
+    background:black;
+}
